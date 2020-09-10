@@ -19,6 +19,7 @@ import { TipSheetService } from './tip-sheets/tip-sheet.service';
 import {WebAnalyticsService} from './web-analytics.service';
 import { ContactusComponent } from './contactus/contactus.component';
 import { SocialMediaIconsComponent } from './social-media-icons/social-media-icons.component';
+import { EplhSurveyComponent } from './eplh-survey/eplh-survey.component';
 
 @NgModule({
   declarations: [
@@ -32,7 +33,8 @@ import { SocialMediaIconsComponent } from './social-media-icons/social-media-ico
     TipsComponent,
     TipSheetsComponent,
     ContactusComponent,
-    SocialMediaIconsComponent
+    SocialMediaIconsComponent,
+    EplhSurveyComponent
   ],
   imports: [
     BrowserModule,
