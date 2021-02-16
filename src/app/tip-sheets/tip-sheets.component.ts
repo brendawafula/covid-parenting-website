@@ -14,7 +14,7 @@ export class TipSheetsComponent implements OnInit, OnChanges {
   @Input()
   currentLanguage: Language;
   @Input()
-  viewAllTipSheets: boolean = false;//used to indicate if the component will show all tipsheets
+  viewAllTipSheets: boolean = true;//was originally false. used to indicate if the component will show all tipsheets
   @Input()
   maxTipSheetsToShow: number = 5;//was originally 6 cause of flex wrap. used to show tipsheets in batches
 
@@ -123,7 +123,12 @@ export class TipSheetsComponent implements OnInit, OnChanges {
           objResourceSheet.pdfSrc = `assets/resources/psas/${row.resourceFilePrefix}.pdf`;
         } else if (strResourceType === "faithbased") {
           objResourceSheet.pdfSrc = `assets/resources/faithbased/${row.resourceFilePrefix}.pdf`;
-        }else{
+        }
+        else if (strResourceType === "socialmedia") {
+          objResourceSheet.pdfSrc = `assets/resources/socialmedia/${row.resourceFilePrefix}.docx`;
+        }
+        
+        else{
           return;
         }
 

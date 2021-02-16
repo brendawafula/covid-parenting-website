@@ -1,14 +1,17 @@
-<h5 class="tip-header">Select your language</h5>
 
 
-<div *ngIf="objMergedTipsheet">
-    To download all the tip sheets <a class="download-merged" href="{{  objMergedTipsheet? objMergedTipsheet.pdfSrc : '' }}" target="_blank">click here</a>
+
+<div *ngIf="objMergedTipsheet" class="thumbnail-container">
+    <img src="assets/resources/tipsheet_thumbnail.png" /> 
+    <div>
+      <p>To download all the tip sheets <a class="download-merged" href="{{  objMergedTipsheet? objMergedTipsheet.pdfSrc : '' }}" target="_blank">click here</a></p>  
+    </div>   
 </div>
 
 <div class="nav-cards">
     <div class="nav-card-item">
-         <div class="nav-card-item-content">
-             <div *ngFor="let tipSheet of visibleTipSheets">
+         <div class="nav-card-item-content tip-sheet-list">
+             <div class="tip-sheet-item" *ngFor="let tipSheet of visibleTipSheets">
                 <a href="{{ tipSheet.pdfSrc}}" target="_blank">
                     {{ tipSheet.title }}      
                 </a>
