@@ -52,7 +52,22 @@ import { ImpactComponent } from './impact/impact.component';
 import { ImpactChampionsComponent } from './impact-champions/impact-champions.component';
 import { TipsLangSelectComponent } from './tips-lang-select/tips-lang-select.component';
 import { MapComponent } from './map/map.component';
+import { ImpactbriefsComponent } from './impactbriefs/impactbriefs.component';
+import { PressComponent } from './press/press.component';
+import { PublicationsComponent } from './publications/publications.component';
+import { PodcastsComponent } from './podcasts/podcasts.component';
+import { environment } from '../environments/environment'
 
+//Angular Firetore modules
+
+import { AngularFireModule} from '@angular/fire'
+import { AngularFirestore, AngularFirestoreModule } from '@angular/fire/firestore';
+import { SearchComponent } from './search/search.component'
+
+//Search highlight pipe
+import { HighlightSearchPipe} from './pipes/highlight-search.pipe'
+
+import { FormsModule } from '@angular/forms'
 @NgModule({
   declarations: [
     AppComponent,
@@ -96,7 +111,13 @@ import { MapComponent } from './map/map.component';
     ImpactComponent,
     ImpactChampionsComponent,
     TipsLangSelectComponent,
-    MapComponent
+    MapComponent,
+    ImpactbriefsComponent,
+    PressComponent,
+    PublicationsComponent,
+    PodcastsComponent,
+    SearchComponent,
+    HighlightSearchPipe
   ],
   imports: [
     BrowserModule,
@@ -105,7 +126,10 @@ import { MapComponent } from './map/map.component';
     HttpClientModule,
     NgbModule,
     ScullyLibModule,
-    LeafletModule
+    LeafletModule,
+    FormsModule,
+    AngularFireModule.initializeApp(environment.firebase),
+    AngularFirestoreModule.enablePersistence()
   ],
   providers: [
     SpreadsheetService,

@@ -42,6 +42,15 @@ languageType,languageCode,languageName,tipSheetNumber,title
 1,et,Eesti,4,Halb käitumine
 1,et,Eesti,5,Ole rahulik ja tegele stressi maandamisega
 1,et,Eesti,6,COVID-19st rääkimine
+1,et,Eesti,7,Laste turvalisuse tagamine internetis
+1,et,Eesti,8,Pere eelarve majanduslikult kitsal ajal
+1,et,Eesti,9,Kodurahu
+1,et,Eesti,10,Mängu kaudu õppimine
+1,et,Eesti,11,Kui vihastume
+1,et,Eesti,12,Vanemlus kitsastes tingimustes
+1,et,Eesti,13,Nõuanded puuetega laste vanematele
+1,et,Eesti,14,Mõned vihjed teismeliste vanematele
+1,et,Eesti,15,Sul on taas beebi?
 1,fr,Français,1,Du Temps en Tête-à-tête
 1,fr,Français,2,Restez Positif
 1,fr,Français,3,Instaurez un Cadre
@@ -207,12 +216,12 @@ languageType,languageCode,languageName,tipSheetNumber,title
 1,sw-tz,Kiswahili (Tanzania),4,Tabia mbaya
 1,sw-tz,Kiswahili (Tanzania),5,Tulia ili ukabiliane na msongo
 1,sw-tz,Kiswahili (Tanzania),6,Mazungumzo kuhusu COVID-19
-1,uk,українська мова,1,Час один на один
-1,uk,українська мова,2,Тримайтесь позитиву
-1,uk,українська мова,3,Складіть розклад!
-1,uk,українська мова,4,Погана поведінка
-1,uk,українська мова,5,Зберігайте спокій та керуйте стресом
-1,uk,українська мова,6,Як говорити про COVID-19
+2,uk,українська мова,1,Час один на один
+2,uk,українська мова,2,Тримайтесь позитиву
+2,uk,українська мова,3,Складіть розклад!
+2,uk,українська мова,4,Погана поведінка
+2,uk,українська мова,5,Зберігайте спокій та керуйте стресом
+2,uk,українська мова,6,Як говорити про COVID-19
 2,uz,Ўзбек,1,Бола билан шахсий вақт ўтказинг
 2,uz,Ўзбек,2,Кўтаринки руҳни сақланг
 2,uz,Ўзбек,3,Режа қилинг!
@@ -383,21 +392,21 @@ languageType,languageCode,languageName,tipSheetNumber,title
 1,ro,Română,4,Comportamente Problematice
 1,ro,Română,5,Păstrați-vă calmul și Gestionați stresul
 1,ro,Română,6,Vorbiți despre COVID-19
-1,ru,Русский,1,Личное время с ребенком
-1,ru,Русский,2,Поддерживайте Позитивный Настрой
-1,ru,Русский,3,Структурируйте
-1,ru,Русский,4,Плохое Поведение
-1,ru,Русский,5,Будьте Спокойны и Справляйтесь со Стрессом
-1,ru,Русский,6,Разговоры о COVID-19
-1,ru,Русский,7,Обучение через игру
-1,ru,Русский,8,Когда мы злимся
-1,ru,Русский,9,Воспитание в переполненных домах и общинах
-1,ru,Русский,10,Семейная гармония дома
-1,ru,Русский,11,Семейный бюджет во время финансового кризиса
-1,ru,Русский,12,Обеспечение безопасности детей в Интернете
-1,ru,Русский,13,Советы для воспитания детей-инвалидов
-1,ru,Русский,14,Советы по воспитанию подростков
-1,ru,Русский,15,У вас недавно родился ребенок?
+2,ru,Русский,1,Личное время с ребенком
+2,ru,Русский,2,Поддерживайте Позитивный Настрой
+2,ru,Русский,3,Структурируйте
+2,ru,Русский,4,Плохое Поведение
+2,ru,Русский,5,Будьте Спокойны и Справляйтесь со Стрессом
+2,ru,Русский,6,Разговоры о COVID-19
+2,ru,Русский,7,Обучение через игру
+2,ru,Русский,8,Когда мы злимся
+2,ru,Русский,9,Воспитание в переполненных домах и общинах
+2,ru,Русский,10,Семейная гармония дома
+2,ru,Русский,11,Семейный бюджет во время финансового кризиса
+2,ru,Русский,12,Обеспечение безопасности детей в Интернете
+2,ru,Русский,13,Советы для воспитания детей-инвалидов
+2,ru,Русский,14,Советы по воспитанию подростков
+2,ru,Русский,15,У вас недавно родился ребенок?
 1,ss,siSwati,1,Kucitsa sikhatsi kanye kanye
 1,ss,siSwati,2,Kugcine Kukahle
 1,ss,siSwati,3,Yenta luhlelo lolufaka imisebenti nesikhatsi!
@@ -536,21 +545,21 @@ languageType,languageCode,languageName,tipSheetNumber,title
 1,nl,Nederlands,4,Lastig Gedrag
 1,nl,Nederlands,5,Blijf Rustig en Hou Stress Onder Controle
 1,nl,Nederlands,6,Praten over COVID-19
-1,fil,Wikang Filipino,1,One-on-One Time
-1,fil,Wikang Filipino,2,Manatiling Positibo
-1,fil,Wikang Filipino,3,Pananatili ng Istruktura at Regular na Gawain
-1,fil,Wikang Filipino,4,Negatibong Kilos
-1,fil,Wikang Filipino,5,Manatiling Kalmado at Pangasiwaan ang Stress
-1,fil,Wikang Filipino,6,Pakikipag-usap Tungkol sa COVID-19
-1,fil,Wikang Filipino,7,Pagiging Ligtas ng mga Bata sa Internet
-1,fil,Wikang Filipino,8,Pagbabudget ng Pamilya Kapag Stressed sa Gastos
-1,fil,Wikang Filipino,9,Pagkakasundo ng pamilya sa tahanan
-1,fil,Wikang Filipino,10,Pagkatuto sa pamamagitan ng laro
-1,fil,Wikang Filipino,11,Kapag Nagagalit Tayo
-1,fil,Wikang Filipino,12,Pag-aalaga ng anak sa masikip na tahanan at komunidad
-1,fil,Wikang Filipino,13,Mga Tips para sa mga Batang may Kapansanan
-1,fil,Wikang Filipino,14,Mga Tip para sa Pagpapalaki ng Teenager
-1,fil,Wikang Filipino,15,Pagpapalaki ng Sanggol
+1,fil,Filipino,1,One-on-One Time
+1,fil,Filipino,2,Manatiling Positibo
+1,fil,Filipino,3,Pananatili ng Istruktura at Regular na Gawain
+1,fil,Filipino,4,Negatibong Kilos
+1,fil,Filipino,5,Manatiling Kalmado at Pangasiwaan ang Stress
+1,fil,Filipino,6,Pakikipag-usap Tungkol sa COVID-19
+1,fil,Filipino,7,Pagiging Ligtas ng mga Bata sa Internet
+1,fil,Filipino,8,Pagbabudget ng Pamilya Kapag Stressed sa Gastos
+1,fil,Filipino,9,Pagkakasundo ng pamilya sa tahanan
+1,fil,Filipino,10,Pagkatuto sa pamamagitan ng laro
+1,fil,Filipino,11,Kapag Nagagalit Tayo
+1,fil,Filipino,12,Pag-aalaga ng anak sa masikip na tahanan at komunidad
+1,fil,Filipino,13,Mga Tips para sa mga Batang may Kapansanan
+1,fil,Filipino,14,Mga Tip para sa Pagpapalaki ng Teenager
+1,fil,Filipino,15,Pagpapalaki ng Sanggol
 1,fi,Suomi,1,Yhteinen aika
 1,fi,Suomi,2,Pidä yllä positiivisuutta
 1,fi,Suomi,3,Luo rutiini!
@@ -692,12 +701,12 @@ languageType,languageCode,languageName,tipSheetNumber,title
 2,km,ភាសាខ្មែរ,10,Tip Sheet Number 10
 2,km,ភាសាខ្មែរ,11,Tip Sheet Number 11
 2,km,ភាសាខ្មែរ,12,Tip Sheet Number 12
-1,ko,조선말,1,아이와 둘만의 시간 갖기
-1,ko,조선말,2,긍정적으로 생각하기
-1,ko,조선말,3,규칙 만들기
-1,ko,조선말,4,말썽 부리는 자녀 대처하기
-1,ko,조선말,5,육아 스트레스 관리하기
-1,ko,조선말,6,COVID-19에 대해 자녀와 대회하기
+2,ko,조선말,1,아이와 둘만의 시간 갖기
+2,ko,조선말,2,긍정적으로 생각하기
+2,ko,조선말,3,규칙 만들기
+2,ko,조선말,4,말썽 부리는 자녀 대처하기
+2,ko,조선말,5,육아 스트레스 관리하기
+2,ko,조선말,6,COVID-19에 대해 자녀와 대회하기
 1,lhi,Ladhof,1,Tip Sheet Number 1
 1,lhi,Ladhof,2,Tip Sheet Number 2
 1,lhi,Ladhof,3,Tip Sheet Number 3
@@ -773,6 +782,7 @@ languageType,languageCode,languageName,tipSheetNumber,title
 1,zu,isiZulu,4,Ukuziphatha Okubi
 1,zu,isiZulu,5,Gcina Ukuthula futhi uphathe ukuxineka
 1,zu,isiZulu,6,Ukukhuluma nge-COVID-19
+1,zu,isiZulu,14,Amathiphu abazali babantwana asebekhulile/intsha (amathineja)
 2,asm, অসমীয়া,1,Tip Sheet Number 1
 2,asm, অসমীয়া,2,Tip Sheet Number 2
 2,asm, অসমীয়া,3,Tip Sheet Number 3

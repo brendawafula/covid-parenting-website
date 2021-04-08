@@ -24,7 +24,7 @@ const MENU_ITEMS: MenuItem[] = [
   },
 
   {
-    name: "RESOURCES",
+    name: "PARENTING",
     href: "/resources",
     subMenuItems: [
       { name: "Parenting Tips", href: "/tips" },
@@ -50,18 +50,21 @@ const MENU_ITEMS: MenuItem[] = [
       { name: "Reach by Dissemination Method", href: "/impact", fragment: "reach-by-dissemination" },
       { name: "Impact Stories", href: "/impactstories" },
       { name: "Champions of Children", href: "/impactchampions" },
+      { name: "Impact Briefs", href: "/impactbriefs" },      
       { name: "Impact Map", href: "/impactmap" }
-
     ]
   },
 
   {
-    name: "NEWS",
+    name: "NEWS & MEDIA",
     href: "/news-main",
     subMenuItems: [
       { name: "Updates", href: "/news" },
       { name: "Newsletters", href: "/newsletters" },
-      { name: "Webinars", href: "/webinars" }
+      { name: "Press", href: "/press" },
+      { name: "Publications", href: "/publications" },
+      { name: "Webinars", href: "/webinars" },
+      { name: "Podcasts", href: "/podcasts" }
     ]
   },
 
@@ -73,6 +76,10 @@ const MENU_ITEMS: MenuItem[] = [
       { name: "Champions of Children Survey", href: "/contactus" , fragment: "champions-of-children-survey"},
       { name: "Teens App Survey", href: "/contactus" , fragment: "teen-app-survey"},
     ]
+  },
+  {
+    name: "Search",
+    href: "/search"
   }
 ];
 

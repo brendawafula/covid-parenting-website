@@ -22,6 +22,12 @@ import { BlogPostComponent } from './blog/blog-post/blog-post.component';
 import { FaithleadersComponent } from './faithleaders/faithleaders.component';
 import { NewsMainComponent } from './news-main/news-main.component';
 import { MapComponent } from './map/map.component';
+import { ImpactbriefsComponent } from './impactbriefs/impactbriefs.component';
+import { PressComponent } from './press/press.component';
+import { PublicationsComponent } from './publications/publications.component';
+import { PodcastsComponent } from './podcasts/podcasts.component';
+import { SearchComponent } from './search/search.component'
+
 
 
 const routes: Routes = [
@@ -47,6 +53,11 @@ const routes: Routes = [
   { path: "impactstories", component: ImpactStoriesComponent },
   { path: "impactchampions", component: ImpactChampionsComponent },
   { path: "impactmap", component: MapComponent },
+  { path: "impactbriefs", component: ImpactbriefsComponent },
+  { path: "press", component: PressComponent },
+  { path: "publications", component: PublicationsComponent },
+  { path: "podcasts", component: PodcastsComponent },
+  { path: "search", component: SearchComponent },
 
   {
     path: "blog",
